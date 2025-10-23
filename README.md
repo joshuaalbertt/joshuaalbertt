@@ -23,4 +23,4 @@ Python · Pandas · NumPy · Matplotlib · Visual Studio Code
 
 ### 🧾 Connect
 📫 [LinkedIn](www.linkedin.com/in/joshuaalbertt)  
-🌐 [GitHub Projects](https://github.com/yourusername)
+🌐 [GitHub Projects](https://github.com/joshuaalbertt)
