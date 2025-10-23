@@ -1,16 +1,26 @@
-## Hi there 👋
+# 👋 Hey, I'm Joshua  
 
-<!--
-**joshuaalbertt/joshuaalbertt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm deeply interested in how **data, probability, and financial systems** connect.  
+Currently exploring **Quantitative Finance and Asset Management**, combining analytical thinking with market logic.  
 
-Here are some ideas to get you started:
+Here, I build projects that focus on:  
+- 📊 **Data Analysis & Visualization** — turning numbers into narratives  
+- 🧮 **Quantitative Modeling** — applying structured reasoning to financial problems  
+- 💡 **Strategic Decision Making** — bridging clarity with execution  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🧠 Current Focus
+Learning how clarity and structure can turn uncertainty into strategy.  
+Exploring financial modeling, portfolio theory, and data-driven finance.  
+
+---
+
+### 🧰 Tech Stack
+Python · Pandas · NumPy · Matplotlib · Visual Studio Code  
+
+---
+
+### 🧾 Connect
+📫 [LinkedIn](www.linkedin.com/in/joshuaalbertt)  
+🌐 [GitHub Projects](https://github.com/yourusername)
